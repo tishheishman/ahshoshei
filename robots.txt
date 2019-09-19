@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oruehohdi.letsnode.se/sitemap.xml
